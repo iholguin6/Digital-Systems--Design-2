@@ -19,4 +19,4 @@
     Show the resulting circuit.
 
 ## Schematic
-<img src="images/Schematic_Full_HexAdder.png">
+<img src="images/Schematic_Full_HexAdder.png" width="500" height="300">
